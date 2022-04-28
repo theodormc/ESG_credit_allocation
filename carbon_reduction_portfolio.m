@@ -2,6 +2,8 @@
 % first compute the carbon intensity of each company 
 % depending on the portfolio structure
 % Carbon emissions: CE1,CE2,CE3 (ktCo2/company/year)
+% Consider that the wealth invested (in bn$) is W = 1;
+% Mkt Cap of the Index = 2500 bn$
 CE1 = [75,5000,720,50,2500,25,30000,5];
 CE2 = [75,5000,1030,350,4500,5,2000,64];
 CE3 = [24000,15000,1210,550,500,187,30000,199];
