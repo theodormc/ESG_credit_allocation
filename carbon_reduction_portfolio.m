@@ -1,8 +1,7 @@
 % carbon neutral portfolio
 % first compute the carbon intensity of each company 
 % depending on the portfolio structure
-addpath('C:\Users\XYZW\Documents\Matlab dissertation - new version\Functions')
-addpath('C:\Users\XYZW\Documents\Matlab dissertation - new version\Markowitz_problems\risk_contributions_budget')
+% Carbon emissions: CE1,CE2,CE3 (ktCo2/company/year)
 CE1 = [75,5000,720,50,2500,25,30000,5];
 CE2 = [75,5000,1030,350,4500,5,2000,64];
 CE3 = [24000,15000,1210,550,500,187,30000,199];
